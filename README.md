@@ -12,5 +12,5 @@ SQL Tasks:
     - Analyze the correlation between vaccination rates and death rates
     - Identify trends and patterns in vaccination and death data
 3. Querying and Visualization:
-    - Write SQL queries to extract insights (e.g., top 5 regions with highest vaccination rates, age groups with lowest death rates)
-    - Use SQL visualization tools (e.g., Tableau, Power BI) to create interactive dashboards and charts
+    - Write SQL queries to extract insights
+    - Use SQL visualization tools 
